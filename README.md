@@ -10,7 +10,8 @@ Original dataset from:
 > Smartlab - Non Linear Complex Systems Laboratory
 > DITEN - Università degli Studi di Genova.
 > Via Opera Pia 11A, I-16145, Genoa, Italy.
-> activityrecognition@smartlab.ws
+
+> <activityrecognition@smartlab.ws>
 > <http://www.smartlab.ws>
 
 ##Files
