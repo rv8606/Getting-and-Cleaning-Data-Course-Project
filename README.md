@@ -6,12 +6,11 @@ It is a peer reviewed submission.
 
 It contains the files instructions and source code used to get and clean the data contained in the dataset **"Human Activity Recognition Using Smartphones"**
 Original dataset from:
-> Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-> Smartlab - Non Linear Complex Systems Laboratory
-> DITEN - Università degli Studi di Genova.
-> Via Opera Pia 11A, I-16145, Genoa, Italy.
-
-> <activityrecognition@smartlab.ws>
+> Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.  
+> Smartlab - Non Linear Complex Systems Laboratory  
+> DITEN - Università degli Studi di Genova.  
+> Via Opera Pia 11A, I-16145, Genoa, Italy.  
+> <activityrecognition@smartlab.ws>  
 > <http://www.smartlab.ws>
 
 ##Files
