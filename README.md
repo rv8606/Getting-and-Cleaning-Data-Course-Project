@@ -1,4 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
+## Description
 Peer reviewed submission for the Getting and Cleaning Data Course Project of Coursera
 
 *This repository has been created for the Getting and Cleaning Data Course Project.*
@@ -13,7 +14,7 @@ Original dataset from:
 > <activityrecognition@smartlab.ws>  
 > <http://www.smartlab.ws>
 
-##Files
+## Files
 - **CodeBook.md** : code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 - **run_analysis.R**: the required R script that does the following: 
 	1. Merges the training and the test sets to create one data set.
