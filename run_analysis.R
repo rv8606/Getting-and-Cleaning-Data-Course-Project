@@ -1,6 +1,8 @@
 # The W4submission.R script will make the necessary transformations to answer the questions asked in the subject
 
 library(dplyr)
+library(data.table)
+
 # We first need to download the files and dataset and unzip them in the data/UCI HAR Dataset folder.
 # Reading the files that we need to create the data frames
 features_df <- read.table("./data/UCI HAR Dataset/features.txt", col.names = c("id","pattern"))
