@@ -24,3 +24,7 @@ Original dataset from:
 	5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 - **CourseraDataCleaningSubmission.txt**: export of the independant tidy dataset resulting of the above manipulations.
 
+## Instructions:
+-1 *download* and *unzip* the [project source data]<https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> in the "data" folder of your workspace.
+-2 run the run_analysis.R from RStudio or RGui.
+-3 the "CourseraDataCleaningSubmission.txt" has been produced in your working directory
